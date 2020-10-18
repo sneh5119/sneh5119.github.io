@@ -63,7 +63,7 @@ header{
     padding-top: 21px;
     padding-right: 20px;
     padding-left: 20px;
-    padding-bottom:18px;
+/*     padding-bottom:18px; */
     text-decoration: none;
     color:white;
     font-weight: 600;
@@ -113,6 +113,11 @@ header{
 }
 .Navbar__Link  a:hover{
      background-color: rgba(255,255,255,0.3);
+         padding-top: 0px;
+        padding-right: 0px;
+        padding-left: 0px;
+        padding-bottom:0px;
+ 
 } 
 
 
